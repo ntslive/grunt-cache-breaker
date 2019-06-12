@@ -1,5 +1,7 @@
 # grunt-cache-breaker [![Build Status](https://travis-ci.org/shakyShane/grunt-cache-breaker.png?branch=master)](https://travis-ci.org/shakyShane/grunt-cache-breaker)
 
+This project was forked from [grunt-cache-breaker](https://github.com/shakyShane/grunt-cache-breaker), the original creator.
+
 ```html
 <!-- Turn this -->
 <script src="/js/dist/combined.min.js"></script>
