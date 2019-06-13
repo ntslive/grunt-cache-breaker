@@ -28,11 +28,11 @@
     "test": "grunt"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "^1.0.4",
     "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-jshint": "~0.1.1",
-    "grunt-contrib-nodeunit": "^0.4.1",
-    "lodash": "^3.10.1"
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "lodash": "^4.17.11"
   },
   "keywords": [
     "gruntplugin",
