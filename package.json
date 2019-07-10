@@ -47,7 +47,7 @@
     "break"
   ],
   "dependencies": {
-    "cache-breaker": "AkuraDavis/cache-breaker",
+    "cache-breaker": "AkuraDavis/cache-breaker#fa12562fd",
     "lodash.clonedeep": "^3.0.2"
   }
 }
